@@ -1,7 +1,10 @@
 # Ingestion Pipeline and Token Counting
 following topics covered in this notebook
 
-Ingestion pipeline in llama_index
-Transoformation Caching Memory
-Custom Transformations
-Tokenizatioan and Token Counting
+1. Ingestion pipeline in llama_index
+
+2. Transoformation Caching Memory
+
+3. Custom Transformations
+
+4. Tokenizatioan and Token Counting
